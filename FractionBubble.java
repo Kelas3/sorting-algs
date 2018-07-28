@@ -1,5 +1,5 @@
 
-#Not the fastest version
+//Not the fastest version
 
 import java.util.*;
 public class FractionBubbleKhan
