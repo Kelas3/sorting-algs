@@ -1,5 +1,4 @@
 //----------------------------------------------------------------------------
-// Sorts.java                  by Dale/Joyce/Weems                  Chapter 10
 // Test harness used to run sorting algorithms
 // Edited by F. Deppe 01-18-11
 // Also Edited by Salek Khan 02-16-17
@@ -196,21 +195,21 @@ public class Sorts
         initValues();
         printValues();
 
-        //insertionSort();
-        //selectionSort();
-        //printValues();
-        //System.out.println("values is sorted: " + isSorted());
-        //System.out.println();
+        insertionSort();
+        selectionSort();
+        printValues();
+        System.out.println("values is sorted: " + isSorted());
+        System.out.println();
 
-        //bubbleSort();
-        //printValues();
-        //System.out.println("values is sorted: " + isSorted());
-        //System.out.println(); 
+        bubbleSort();
+        printValues();
+        System.out.println("values is sorted: " + isSorted());
+        System.out.println(); 
 
-        //mergeSort(0, SIZE - 1);
-        //printValues();
-        //System.out.println("values is sorted: " + isSorted());
-        //System.out.println();
+        mergeSort(0, SIZE - 1);
+        printValues();
+        System.out.println("values is sorted: " + isSorted());
+        System.out.println();
 
         quickSort(0, SIZE-1);
         printValues();
