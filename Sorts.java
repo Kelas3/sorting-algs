@@ -1,7 +1,6 @@
 //----------------------------------------------------------------------------
 // Test harness used to run sorting algorithms
-// Edited by F. Deppe 01-18-11
-// Also Edited by Salek Khan 02-16-17
+// Edited by Salek Khan 
 //----------------------------------------------------------------------------
 
 import java.io.*;
