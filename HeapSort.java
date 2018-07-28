@@ -1,3 +1,4 @@
+//@author Salek Khan
 public class HeapSort
 {
     public void sort(int arr[])
